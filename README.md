@@ -15,3 +15,7 @@ The day 2 tasks feature a text file that I named "input.txt". This file has to b
 # Day 4 tasks
 
 The same things that apply to the day 2 tasks apply to this task as well.
+
+# Day 5 tasks
+
+The same things that apply to the day 2 tasks apply to this task as well.

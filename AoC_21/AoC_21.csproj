@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D8A3488F-32E2-4FAF-A458-32570E1E83AB}</ProjectGuid>
+    <ProjectGuid>{3E38DA7C-00ED-472E-B123-42179D52A5B7}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>AoC_19</RootNamespace>
-    <AssemblyName>AoC_19</AssemblyName>
+    <RootNamespace>AoC_21</RootNamespace>
+    <AssemblyName>AoC_21</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,11 +42,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Core.cs" />
-    <Compile Include="Day19_1.cs" />
-    <Compile Include="Day19_2.cs" />
+    <Compile Include="Picture.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Walker.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
